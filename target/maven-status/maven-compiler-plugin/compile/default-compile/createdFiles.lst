@@ -1,0 +1,3 @@
+DataBaseConnection\DataBaseConnector.class
+com\example\model\Product.class
+com\example\servlet\ProductRepoServlet.class
